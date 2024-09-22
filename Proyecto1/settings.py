@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Proyecto1.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [f'{BASE_DIR}/ EncMus/templates/enc_mus'],
+        'DIRS': [f'{BASE_DIR}/EncMus/templates/enc_mus'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
