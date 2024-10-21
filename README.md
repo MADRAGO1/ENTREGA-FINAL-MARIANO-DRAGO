@@ -10,6 +10,6 @@ El siguiente link, muestra un video de la WEB:
 
 https://youtu.be/jqUS030w4Dg
 
-Link de GITHUB:
+Link de GITHUB (usar la rama Prueba):
 
 https://github.com/MADRAGO1/ENTREGA-FINAL-MARIANO-DRAGO.git
